@@ -11,6 +11,7 @@ The goal is to eventualy compile a 360-card Cube that can be drafted by 8 player
 
 ## Blue
 1. [Creature](https://twitter.com/roborosewater/status/648931807040303104) (1U) - Instant
+2. [Urzvid Wurm](https://twitter.com/roborosewater/status/652194523792207877) (2U) - Enchantment
 
 ## Black
 
